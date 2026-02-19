@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260216104511 +0800">
+<tv date="20260219103837 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5313,214 +5313,115 @@
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
 	</channel>
-	<programme channel="西藏卫视" start="20260216001800 +0800" stop="20260216010600 +0800">
-		<title lang="zh">南来北往(39)</title>
+	<programme channel="西藏卫视" start="20260219000000 +0800" stop="20260219001900 +0800">
+		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216010600 +0800" stop="20260216015300 +0800">
-		<title lang="zh">黄雀(9)</title>
+	<programme channel="西藏卫视" start="20260219001900 +0800" stop="20260219011200 +0800">
+		<title lang="zh">跨过鸭绿江(2)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216015300 +0800" stop="20260216023900 +0800">
-		<title lang="zh">黄雀(10)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216023900 +0800" stop="20260216031600 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216031600 +0800" stop="20260216033400 +0800">
-		<title lang="zh">在西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216033400 +0800" stop="20260216042300 +0800">
-		<title lang="zh">前途无量(20)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216042300 +0800" stop="20260216051000 +0800">
-		<title lang="zh">前途无量(21)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216051000 +0800" stop="20260216054300 +0800">
-		<title lang="zh">珠峰讲堂</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216054300 +0800" stop="20260216061500 +0800">
+	<programme channel="西藏卫视" start="20260219011200 +0800" stop="20260219015000 +0800">
 		<title lang="zh">美丽西藏</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216061500 +0800" stop="20260216070000 +0800">
-		<title lang="zh">战将(3)</title>
+	<programme channel="西藏卫视" start="20260219015000 +0800" stop="20260219023600 +0800">
+		<title lang="zh">黄雀(15)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216070000 +0800" stop="20260216070300 +0800">
+	<programme channel="西藏卫视" start="20260219023600 +0800" stop="20260219032100 +0800">
+		<title lang="zh">黄雀(16)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219032100 +0800" stop="20260219035800 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219035800 +0800" stop="20260219044400 +0800">
+		<title lang="zh">前途无量(26)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219044400 +0800" stop="20260219053100 +0800">
+		<title lang="zh">梦中的那片海(1)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219053100 +0800" stop="20260219060400 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219060400 +0800" stop="20260219061600 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219061600 +0800" stop="20260219070000 +0800">
+		<title lang="zh">战将(9)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219070000 +0800" stop="20260219070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216070300 +0800" stop="20260216074500 +0800">
-		<title lang="zh">战将(4)</title>
+	<programme channel="西藏卫视" start="20260219070100 +0800" stop="20260219074600 +0800">
+		<title lang="zh">战将(10)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216074500 +0800" stop="20260216081700 +0800">
+	<programme channel="西藏卫视" start="20260219074600 +0800" stop="20260219081700 +0800">
 		<title lang="zh">动画乐园</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216081700 +0800" stop="20260216083000 +0800">
+	<programme channel="西藏卫视" start="20260219081700 +0800" stop="20260219083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216083000 +0800" stop="20260216090400 +0800">
+	<programme channel="西藏卫视" start="20260219083000 +0800" stop="20260219090300 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216090400 +0800" stop="20260216095300 +0800">
-		<title lang="zh">南来北往(1)</title>
+	<programme channel="西藏卫视" start="20260219090300 +0800" stop="20260219100300 +0800">
+		<title lang="zh">2026藏历新年联欢晚会</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216095300 +0800" stop="20260216104100 +0800">
-		<title lang="zh">南来北往(2)</title>
+	<programme channel="西藏卫视" start="20260219100300 +0800" stop="20260219110300 +0800">
+		<title lang="zh">2026藏历新年联欢晚会</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216104100 +0800" stop="20260216112700 +0800">
-		<title lang="zh">南来北往(3)</title>
+	<programme channel="西藏卫视" start="20260219110300 +0800" stop="20260219120300 +0800">
+		<title lang="zh">2026藏历新年联欢晚会</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216112700 +0800" stop="20260216121200 +0800">
-		<title lang="zh">南来北往(4)</title>
+	<programme channel="西藏卫视" start="20260219120300 +0800" stop="20260219124900 +0800">
+		<title lang="zh">2026藏历新年联欢晚会</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216121200 +0800" stop="20260216130000 +0800">
-		<title lang="zh">南来北往(5)</title>
+	<programme channel="西藏卫视" start="20260219124900 +0800" stop="20260219130000 +0800">
+		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216130000 +0800" stop="20260216131600 +0800">
+	<programme channel="西藏卫视" start="20260219130000 +0800" stop="20260219131800 +0800">
 		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216131600 +0800" stop="20260216140800 +0800">
-		<title lang="zh">共同家园(1)</title>
+	<programme channel="西藏卫视" start="20260219131800 +0800" stop="20260219140500 +0800">
+		<title lang="zh">无间(40)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260216140800 +0800" stop="20260216150000 +0800">
-		<title lang="zh">共同家园(2)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216150000 +0800" stop="20260216152000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216152000 +0800" stop="20260216160600 +0800">
-		<title lang="zh">无间(30)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216160600 +0800" stop="20260216165200 +0800">
-		<title lang="zh">无间(31)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216165200 +0800" stop="20260216173900 +0800">
-		<title lang="zh">无间(32)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216173900 +0800" stop="20260216182700 +0800">
-		<title lang="zh">无间(33)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216182700 +0800" stop="20260216190000 +0800">
-		<title lang="zh">邦锦梅朵:动画乐园</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216190000 +0800" stop="20260216193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216193000 +0800" stop="20260216200000 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216200000 +0800" stop="20260216210000 +0800">
-		<title lang="zh">2026央视春晚</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216210000 +0800" stop="20260216220000 +0800">
-		<title lang="zh">2026央视春晚</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216220000 +0800" stop="20260216230000 +0800">
-		<title lang="zh">2026央视春晚</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260216230000 +0800" stop="20260216003400 +0800">
-		<title lang="zh">2026央视春晚</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217003400 +0800" stop="20260217010100 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217010100 +0800" stop="20260217013600 +0800">
-		<title lang="zh">美丽西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217013600 +0800" stop="20260217022200 +0800">
-		<title lang="zh">黄雀(11)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217022200 +0800" stop="20260217030800 +0800">
-		<title lang="zh">黄雀(12)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217030800 +0800" stop="20260217033800 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217033800 +0800" stop="20260217035100 +0800">
-		<title lang="zh">读·行·西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217035100 +0800" stop="20260217043800 +0800">
-		<title lang="zh">前途无量(22)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217043800 +0800" stop="20260217052900 +0800">
-		<title lang="zh">前途无量(23)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217052900 +0800" stop="20260217054100 +0800">
-		<title lang="zh">跟我学藏语</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217054100 +0800" stop="20260217061500 +0800">
-		<title lang="zh">美丽西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217061500 +0800" stop="20260217070000 +0800">
-		<title lang="zh">战将(5)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217070000 +0800" stop="20260217070200 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217070200 +0800" stop="20260217074400 +0800">
-		<title lang="zh">战将(6)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217074400 +0800" stop="20260217081500 +0800">
-		<title lang="zh">动画乐园</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217081500 +0800" stop="20260217083000 +0800">
-		<title lang="zh">跟我学藏语</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217083000 +0800" stop="20260217090500 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217090500 +0800" stop="20260217095300 +0800">
-		<title lang="zh">南来北往(6)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217095300 +0800" stop="20260217112500 +0800">
+	<programme channel="西藏卫视" start="20260219140500 +0800" stop="20260219153800 +0800">
 		<title lang="zh">欢笑2026</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217112500 +0800" stop="20260217121100 +0800">
-		<title lang="zh">南来北往(7)</title>
+	<programme channel="西藏卫视" start="20260219153800 +0800" stop="20260219162500 +0800">
+		<title lang="zh">上甘岭(1)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217121100 +0800" stop="20260217130000 +0800">
-		<title lang="zh">南来北往(8)</title>
+	<programme channel="西藏卫视" start="20260219162500 +0800" stop="20260219171100 +0800">
+		<title lang="zh">上甘岭(2)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217130000 +0800" stop="20260217131700 +0800">
-		<title lang="zh">午间新闻</title>
+	<programme channel="西藏卫视" start="20260219171100 +0800" stop="20260219175700 +0800">
+		<title lang="zh">上甘岭(3)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217131700 +0800" stop="20260217140800 +0800">
-		<title lang="zh">共同家园(3)</title>
+	<programme channel="西藏卫视" start="20260219175700 +0800" stop="20260219182800 +0800">
+		<title lang="zh">美丽西藏</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217140800 +0800" stop="20260217150000 +0800">
-		<title lang="zh">共同家园(4)</title>
+	<programme channel="西藏卫视" start="20260219182800 +0800" stop="20260219190000 +0800">
+		<title lang="zh">动画乐园</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217150000 +0800" stop="20260217151700 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217151700 +0800" stop="20260217160300 +0800">
-		<title lang="zh">无间(34)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217160300 +0800" stop="20260217164900 +0800">
-		<title lang="zh">无间(35)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217164900 +0800" stop="20260217173600 +0800">
-		<title lang="zh">无间(36)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217173600 +0800" stop="20260217182300 +0800">
-		<title lang="zh">无间(37)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217182300 +0800" stop="20260217190000 +0800">
-		<title lang="zh">邦锦梅朵:动画乐园</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260217190000 +0800" stop="20260217193000 +0800">
+	<programme channel="西藏卫视" start="20260219190000 +0800" stop="20260219193000 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217193000 +0800" stop="20260217200000 +0800">
+	<programme channel="西藏卫视" start="20260219193000 +0800" stop="20260219200400 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217200000 +0800" stop="20260217210000 +0800">
-		<title lang="zh">2026藏历新年联欢晚会</title>
+	<programme channel="西藏卫视" start="20260219200400 +0800" stop="20260219201200 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217210000 +0800" stop="20260217220000 +0800">
-		<title lang="zh">2026藏历新年联欢晚会</title>
+	<programme channel="西藏卫视" start="20260219201200 +0800" stop="20260219214400 +0800">
+		<title lang="zh">地市2026藏历新年晚会</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217220000 +0800" stop="20260217230000 +0800">
-		<title lang="zh">2026藏历新年联欢晚会</title>
+	<programme channel="西藏卫视" start="20260219214400 +0800" stop="20260219223000 +0800">
+		<title lang="zh">日光之城(3)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260217230000 +0800" stop="20260217004900 +0800">
-		<title lang="zh">2026藏历新年联欢晚会</title>
+	<programme channel="西藏卫视" start="20260219223000 +0800" stop="20260219230600 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219230600 +0800" stop="20260219231800 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260219231800 +0800" stop="20260219235959 +0800">
+		<title lang="zh">跨过鸭绿江(3)</title>
 	</programme>
 </tv>
